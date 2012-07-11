@@ -8,4 +8,4 @@ Recently I wanted to integrate the Visual Studio code metrics into my build. I u
 
 ![metrics files](/img/metricsfiles.png)
 
-In order to run the tool my build server all I had to do was copy those two files into my FxCop directory and viola, code metrics. In addition, you can also copy the FxCop directory to your build server so there isn’t even a requirement for FxCop to be installed with the installer. I find this helpful because the location of FxCop installed with Visual Studio is not the same as when installed with the Windows SDK.
+In order to run the tool my build server all I had to do was copy those two files into my FxCop directory and viola, code metrics. In addition, you can also copy the FxCop directory to your build server so there isn't even a requirement for FxCop to be installed with the installer. I find this helpful because the location of FxCop installed with Visual Studio is not the same as when installed with the Windows SDK.
