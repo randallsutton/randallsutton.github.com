@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_posts", "_posts", "{E107E9C0-EF05-4393-889A-A7D6F6B9A0B2}"
+	ProjectSection(SolutionItems) = preProject
+		_posts\2011-06-23-visual-studio-code-metrics-without-visual-studio.md = _posts\2011-06-23-visual-studio-code-metrics-without-visual-studio.md
+		_posts\2011-09-13-windows-8-first-impression.md = _posts\2011-09-13-windows-8-first-impression.md
+		_posts\2012-07-10-static-blog.md = _posts\2012-07-10-static-blog.md
+		_posts\2012-08-31-bump-subversion-revision.md = _posts\2012-08-31-bump-subversion-revision.md
+		_posts\2012-12-13-visual-studio-2012-is-awesome.md = _posts\2012-12-13-visual-studio-2012-is-awesome.md
+		_posts\2012-12-19-sql-server-is-a-document-database-too.md = _posts\2012-12-19-sql-server-is-a-document-database-too.md
+		_posts\2013-03-03-i-miss-my-unit-tests.md = _posts\2013-03-03-i-miss-my-unit-tests.md
+		_posts\2013-04-30-start8-and-modernmix.md = _posts\2013-04-30-start8-and-modernmix.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_layouts", "_layouts", "{0E766B22-4A30-4D93-BABA-F6899C0BB7E6}"
+	ProjectSection(SolutionItems) = preProject
+		_layouts\default.html = _layouts\default.html
+		_layouts\post.html = _layouts\post.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5965ACCF-3E14-40A5-B2B5-4F24607BBF4C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		_config.yml = _config.yml
+		CNAME = CNAME
+		index.html = index.html
+		README.md = README.md
+		rss.xml = rss.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
