@@ -11,7 +11,7 @@ because most of what I need either isn't there or can't be found easily. Since t
 praised all the work Microsoft has done under the hood to improve Windows and so really the only issue
 I have with Windows 8 is the usability with start screen.
 
-Enter ([Start8](http://www.stardock.com/products/start8/)) and ([ModernMix](http://www.stardock.com/products/modernmix/)). 
+Enter [Start8](http://www.stardock.com/products/start8/) and [ModernMix](http://www.stardock.com/products/modernmix/). 
 I love these tools. These two pieces of software have made Windows 8 a dream for me. Start8 makes it
 so I can rule the desktop once again and find everything I need while still allowing me to drop into the
 start screen whenever I feel like it. ModernMix makes it so I can put any windows store app into a
