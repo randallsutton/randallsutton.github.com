@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Start8 and ModernMix
-permalink: 2013-04-30-start8-and-modernmix.md
+permalink: 2013-04-30-start8-and-modernmix.html
 ---
 
 I have been using Windows 8 casually for a while now and have tried to embrace the new start screen. I
